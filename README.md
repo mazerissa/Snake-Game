@@ -18,12 +18,12 @@ Welcome to the Snake Game with AI! This project is a classic Snake game built us
 
 ## Project Structure
 
-├── main.py          # Main game loop, uses Turtle for rendering 
-├── snake.py         # Snake class and movement logic 
-├── food.py          # Food object with random spawning 
-├── scoreboard.py    # Score tracking and display 
-├── snake_ai.py      # AI logic to control the snake's movement 
-└── README.md        # This file
+├── main.py          # Main game loop, uses Turtle for rendering        
+├── snake.py         # Snake class and movement logic      
+├── food.py          # Food object with random spawning     
+├── scoreboard.py    # Score tracking and display    
+├── snake_ai.py      # AI logic to control the snake's movement   
+└── README.md        # This file  
 
 ---
 
