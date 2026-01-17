@@ -39,9 +39,9 @@ Welcome to the Snake Game with AI! This project is a classic Snake game built us
    ```
 
 3. Run the game:
-
-python main.py
-
+  ```bash
+  python3 Main.py
+  ```
 
 
 The AI will automatically control the snake — no keyboard input is required.
