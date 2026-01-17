@@ -33,9 +33,10 @@ Welcome to the Snake Game with AI! This project is a classic Snake game built us
 
 2. Clone this repository:
 
-   `bash
+   ```bash
    git clone https://github.com/mazerissa/snake-game.git
    cd snake-game
+   ```
 
 3. Run the game:
 
